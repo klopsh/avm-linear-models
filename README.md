@@ -28,7 +28,7 @@ PE20 — доля оценок с ошибкой ≤ 20%, OVR20 — доля п�
 ## Запуск
 
 ```bash
-git clone https://github.com/<user>/avm-linear-models.git
+git clone https://github.com/klopsh/avm-linear-models.git
 cd avm-linear-models
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
