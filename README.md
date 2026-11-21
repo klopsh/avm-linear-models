@@ -1,8 +1,6 @@
 # Оценка залоговой недвижимости линейными моделями
 
-Pet-проект по классическому ML: AVM (automated valuation model) для залогового портфеля на данных California Housing. От МНК с робастным статистическим выводом до регуляризации, предсказательных интервалов и парного сравнения моделей. Один ноутбук: [`avm_linear_models.ipynb`](avm_linear_models.ipynb) — с выполненными ячейками, графики видны прямо на GitHub.
-
-![MAPE моделей на тесте](docs/model_comparison.png)
+Automated valuation model для залогового портфеля на данных California Housing. 
 
 ## Результаты (тест, 3 935 объектов)
 
